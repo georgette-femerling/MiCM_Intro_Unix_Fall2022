@@ -16,24 +16,24 @@ This workshop is aimed at people with little or no programming experience who wa
 
 ## Contents
 
-1. Introduction
-  - Introduction to the UNIX operating system
-  - Files and processes
-  - Directory Structure
-  - The Terminal
+1. Introduction to UNIX
+   - Introduction to the UNIX operating system
+   - Files and processes
+   - Directory Structure
+   - The Terminal
 2. Basic commands and managing files
-  - Basic Commands 
-  - Directory Management
-  - File Management 
-  - Redirecting output
-  - File permissions
-  - Hands on 1 exercise
+   - Basic Commands 
+   - Directory Management
+   - File Management 
+   - Redirecting output
+   - File permissions
+   - Hands on 1 exercise
 3. Text Processing
-  - Pipes
-  - Basic text processing commands
-  - Pattern matching with grep
-  - Pattern substitution with sed
-  - Hands on 2 exercise
+   - Pipes
+   - Basic text processing commands
+   - Pattern matching with grep
+   - Pattern substitution with sed
+   - Hands on 2 exercise
 4. UNIX Variables
 
 
