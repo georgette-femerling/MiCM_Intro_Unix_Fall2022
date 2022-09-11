@@ -51,9 +51,10 @@ For HPC:
 https://perso.telecom-paristech.fr/eagan/class/igr204/datasets 
 
 * The material given in this course is a compilation of different sources:
-http://www.ee.surrey.ac.uk/Teaching/Unix/index.html
-https://www.tutorialspoint.com/unix/index.htm
+ - http://www.ee.surrey.ac.uk/Teaching/Unix/index.html
+ - https://www.tutorialspoint.com/unix/index.htm
 
-   
+* Adapted from [MiCM UNIX workshop Summer 2022](https://github.com/McGill-MiCM/Intro_Unix_Summer2022)
+
 *Workshop created as part of the McGill Initiative in Computational Medicine*
 
